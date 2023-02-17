@@ -1,0 +1,8 @@
+ package HaKieuAnh;
+
+ public class HaKieuAnh_App {
+    public static void  main(String[] args) {
+                System.out.println("Hello world");
+                System.out.println("Ha Kieu Anh hoc Java");
+    }
+ }
